@@ -1,0 +1,18 @@
+{
+    "id": 15,
+    "name": "GauravAnand",
+    "email": "email21@gmail.com",
+    "phone": "8218686172",
+    "photo": "https://chemistpoint.com/medical/public/uploads/1676033016.jpeg",
+    "password": "123456",
+    "device_id": "",
+    "token": "wCgCGdokMTYzniymSjzFl5fBLN83",
+    "role": 6,
+    "status": 1,
+    "email_verified_at": "NULL",
+    "pres_doc": ",https://chemistpoint.com/medical/public/uploads/1675851756.jpeg",
+    "lab_doc": "",
+    "call_id": null,
+    "created_at": "2023-02-01 13:33:39",
+    "updated_at": "2023-02-01 13:33:39"
+}

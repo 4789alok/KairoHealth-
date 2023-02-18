@@ -1,0 +1,11 @@
+{
+    "id": 4,
+    "prescription_id": "2",
+    "test_name": "Tyfied",
+    "blood": 1,
+    "urine": 0,
+    "file": "",
+    "created_at": "2023-02-06 10:50:56",
+    "updated_at": "2023-02-06 10:50:56",
+    "status": 1
+}

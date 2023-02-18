@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1077487254200",
+    "project_id": "chemistpoint-a1d92",
+    "storage_bucket": "chemistpoint-a1d92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077487254200:android:442785a415654b672f124d",
+        "android_client_info": {
+          "package_name": "com.example.kairohealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077487254200-rpa49unblp6id2ginnmlml0j8t8b7t01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kairohealth",
+            "certificate_hash": "45ec7876196d62274e9bcd3f22404c7177ef92be"
+          }
+        },
+        {
+          "client_id": "1077487254200-hfig4ljico8tbf9u536ev9hvkkci26gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChktLY3vofeJny93gKhS8CMr-RaPDFTHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077487254200-hfig4ljico8tbf9u536ev9hvkkci26gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

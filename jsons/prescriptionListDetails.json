@@ -1,0 +1,18 @@
+{
+    "id": 8,
+    "doctor_id": 11,
+    "store_id": "5",
+    "patient_id": "15",
+    "patient_name": "Roy",
+    "patient_age": "10",
+    "patient_address": "Test Address",
+    "patient_state": "",
+    "patient_city": "",
+    "patient_gender": "M",
+    "advice": "Do not take curd and urad dal",
+    "created_at": "2025-07-01 12:00:00",
+    "updated_at": "2023-02-09 10:47:07",
+    "status": 1,
+    "labtest":"$[]prescriptionTestDetails",
+    "medicines":"$[]prescriptionMedicineDetails"
+}
